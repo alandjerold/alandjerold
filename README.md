@@ -1,5 +1,7 @@
-### Hi there 👋
-
+👋Prazer, eu sou o @AlanDjerold
+🌱Atualmente estou aprendendo React usando JavaScript
+📫Como chegar até mim www.linkedin.com/in/alan-djerold-vieira-1780bb23b/
+[https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white](https://codepen.io/your-work)
 <!--
 **alandjerold/alandjerold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
