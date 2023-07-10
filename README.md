@@ -5,11 +5,11 @@
 
 ### 📫Como chegar até mim :
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5547992751902?text=Ol%C3%A1%20Alan,%20tudo%20bom%20?) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlanDjerold) [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alanvieira30@outlook.com?subject=Oferta_de_emprego&body=Olá_Alan_Tudo_bom_?)
-![AlanDjerold GitHub stats](https://github-readme-stats.vercel.app/api?username=alandjerold&show_icons=true&theme=merko)
 
 
 
 ## Tecnologias que uso no meu dia a dia:
+
 <div>
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </img>
@@ -24,6 +24,8 @@
 <img alt="HTML5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </img>
 </div>
+
+![AlanDjerold GitHub stats](https://github-readme-stats.vercel.app/api?username=alandjerold&show_icons=true&theme=merko)
 
 
 
